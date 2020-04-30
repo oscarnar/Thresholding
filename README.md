@@ -1,5 +1,5 @@
 # Thresholding
-Thresholding es un m ́etodo que consiste en reemplazar cada pixel de una ima-gen con un pixel negro si la intesidad de la imagen en el pixelIi,jes menor quealguna constante T ( que es,Ii,j< T), o un pixel blanco si la intencidad dedicho pixel es mayor a T.
+Thresholding es un metodo que consiste en reemplazar cada pixel de una ima-gen con un pixel negro si la intesidad de la imagen en el pixel [i,j] es menor que alguna constante T ( que es [i,j] ), o un pixel blanco si la intencidad dedicho pixel es mayor a T.
 
 ## Compilar
 Antes de compilar debemos tener instalado `Python3.X`, `OpenCV`, `Matplotlib` y `Numpy`.
